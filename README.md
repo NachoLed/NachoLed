@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NachoLed 
-- 👀 I’m interested in Web Development, Data Science and Blockchain
-- 🌱 I’m currently learning and working with C# ASP.NET
+- 👀 I’m interested in Web Development, AI and Blockchain
+- 🌱 I’m currently learning and working with .NET and React JS
 - :microscope: Last year joined a Data Science Bootcamp!
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me https://www.linkedin.com/in/ignacioledesma/
+- 📫 How to reach [me](https://www.linkedin.com/in/nacholedesma/)
 
 <!---
 NachoLed/NachoLed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
